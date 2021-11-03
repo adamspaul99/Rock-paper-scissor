@@ -1,1 +1,1 @@
-work: python Rock-paper-scissors.py
+work: python Rock, paper, scissors.py
